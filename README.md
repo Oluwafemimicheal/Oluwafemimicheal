@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQEBOdurPhi6cw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1686083302938?e=1729728000&v=beta&t=-geGmVv83_0v_FhM1abXS84KROgwKw14f0x0WeWGcd0"/>
 <h1 align="center">Hi 👋, I'm Oluwafemi Michael</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
