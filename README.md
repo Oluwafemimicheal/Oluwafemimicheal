@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Oluwafemi Michael</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on **my projects portfolio**
+- 🔭 I’m currently working on **MailTunel Web Application**
 
-- 🌱 I’m currently learning **react.js, express.js**
+- 🌱 I’m currently learn **Node.js, express.js**
 
-- 👯 I’m looking to collaborate on **react.js projects**
+- 👯 I’m looking to collaborate on **react.js and Augular.js projects**
 
 - 🤝 I’m looking for help with **building more effective projects**
 
-- 💬 Ask me about **react.js, node.js, Express.js**
+- 💬 Ask me about **react.js, Augular.js, node.js, Express.js**
 
 - 📫 How to reach me **oluwafemicu@gmail.com**
 
